@@ -1,0 +1,24 @@
+{
+  "name": "tareanpm",
+  "version": "1.0.0",
+  "description": "Mi primer server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "env FORCE_COLOR=1 node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joserbp/TareaNPM.git"
+  },
+  "author": "Jose Ramon Becerra Perez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Joserbp/TareaNPM/issues"
+  },
+  "homepage": "https://github.com/Joserbp/TareaNPM#readme",
+  "dependencies": {
+    "express": "4.17.1",
+    "http": "0.0.0"
+  }
+}
